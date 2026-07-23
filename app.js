@@ -5,7 +5,7 @@ let postsData = [
         category: "Sports Cars",
         status: "Active",
         likes: 68,
-        content: "Top high-performance sports cars built for speed and elegance.",
+        content: "Gusto niyo? bili kayo",
         images: [
             "https://images.unsplash.com/photo-1617814076367-b759c7d7e738?w=600&h=350&fit=crop",
             "https://images.unsplash.com/photo-1544829099-b9a0c07fad1a?w=600&h=350&fit=crop",
@@ -14,8 +14,8 @@ let postsData = [
             "https://images.unsplash.com/photo-1583121274602-3e2820c69888?w=600&h=350&fit=crop"
         ],
         comments: [
-            { author: "Gearhead", text: "That engine roar is insane! 🏎️" },
-            { author: "Speedster", text: "Dream garage line-up right here." }
+            { author: "Jayden", text: "Katas ng scatter" },
+            { author: "Inday Pipay", text: "Dami naman Daddy, Roadtrip na!!" }
         ]
     },
     {
@@ -24,7 +24,7 @@ let postsData = [
         category: "Sport Motorcycles",
         status: "Active",
         likes: 45,
-        content: "High-revving superbikes engineered for pure adrenaline on the track.",
+        content: "Sup mga ka g ito nga pala mga collection ng motors tara rides na ",
         images: [
             "https://images.unsplash.com/photo-1558981806-ec527fa84c39?w=600&h=350&fit=crop",
             "https://images.unsplash.com/photo-1568772585407-9361f9bf3a87?w=600&h=350&fit=crop",
@@ -33,8 +33,9 @@ let postsData = [
             "https://images.unsplash.com/photo-1591637333184-19aa84b3e01f?w=600&h=350&fit=crop"
         ],
         comments: [
-            { author: "RiderX", text: "Nothing beats two wheels! 🏍️" },
-            { author: "TrackFan", text: "That lean angle is incredible!" }
+            { author: "Carlo", text: "sheesh bangis mo idol" },
+            { author: "Ryan Bang", text: "peram naman idol" },
+            { author: "Justin Bib", text: "yabang mo tol, banggain kaya kita ng full charge na ebike" }
         ]
     },
     {
@@ -43,7 +44,7 @@ let postsData = [
         category: "Bicycles & Cycling",
         status: "Active",
         likes: 89,
-        content: "Exploring fixies, road bikes, and mountain bikes for every type of ride.",
+        content: "FS bikes, parts out or whole bike! #goodsetup",
         images: [
             "https://images.unsplash.com/photo-1485965120184-e220f721d03e?w=600&h=350&fit=crop",
             "https://images.unsplash.com/photo-1532298229144-0ec0c57515c7?w=600&h=350&fit=crop",
@@ -52,8 +53,11 @@ let postsData = [
             "https://images.unsplash.com/photo-1511994298241-608e28f14fde?w=600&h=350&fit=crop"
         ],
         comments: [
-            { author: "UrbanCyclist", text: "Loving the clean fixed-gear setup! 🚲" },
-            { author: "TrailBlazer", text: "Great trail shot for the MTB!" }
+            { author: "Romel", text: "how much ba? pm nga" },
+            { author: "Haruto", text: "get ko na 7k yung black" },
+            { author: "Elijah", text: "ano specs ng mountain bike mo?" },
+            { author: "Angelo", text: "magkano sa fixed gear pre?" }
+
         ]
     }
 ];
